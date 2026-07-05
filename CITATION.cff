@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "AI for Health Portfolio"
+message: "If you use or reference this repository, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: "Majiwa"
+    given-names: "Brian Odhiambo"
+    orcid: "https://orcid.org/0009-0004-6075-4637"
+
+repository-code: "https://github.com/brianmajiwa/AI-for-Health-Portfolio"
+
+url: "https://github.com/brianmajiwa/AI-for-Health-Portfolio"
+
+abstract: >
+  A professional technical portfolio demonstrating practical applications
+  of Artificial Intelligence in healthcare, laboratory science,
+  microbiology, epidemiology, public health, automation, and
+  data-driven decision support.
+
+keywords:
+  - Artificial Intelligence
+  - Healthcare AI
+  - Machine Learning
+  - Laboratory Informatics
+  - Public Health
+  - Epidemiology
+  - Python
+  - Data Analytics
+  - Healthcare Automation
+  - Clinical Decision Support
+  - Responsible AI
+
+license: MIT
+
+version: "1.0.0"
+
+date-released: "2026-07-05"
